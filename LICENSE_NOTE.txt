@@ -1,0 +1,7 @@
+This package contains study-specific analysis code. The OPSSAT-AD dataset and official benchmark code have their own licenses and terms. Obtain the dataset from the official Zenodo record and consult the official repository/license before redistribution.
+
+Official repository:
+https://github.com/kplabs-pl/OPS-SAT-AD
+
+Official dataset:
+https://doi.org/10.5281/zenodo.15108715
